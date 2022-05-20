@@ -4,6 +4,7 @@
 - then did some feature engineering and created some new columns
 - did some preproccessing before using this features
 - Also Data Scaling using MinMaxScaler 
+- Used GridSearchCV to get the best parameter for my model
 - Finally i tested some models like:
 
 ## Polynomial Model 
